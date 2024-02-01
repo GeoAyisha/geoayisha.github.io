@@ -4,8 +4,8 @@
 
 ### Academic projects 
 
-[The environmental quality of Tallin city street network and equity of access to healthy travel environments](/images/image_2024-02-01_223748180.png)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[The environmental quality of Tallin city street network and equity of access to healthy travel environments](/sample_page)
+<img src="images/image_2024-02-01_223748180.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
