@@ -8,7 +8,7 @@
 <img src="images/image_2024-02-01_223748180.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Accessibility of greenery in Tartu](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
