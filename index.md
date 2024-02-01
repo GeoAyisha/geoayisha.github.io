@@ -1,10 +1,10 @@
-## Portfolio
+## Ayisha Portfolio
 
 ---
 
-### Category Name 1 
+### Academic projects 
 
-[Project 1 Title](/sample_page)
+[The environmental quality of Tallin city street network and equity of access to healthy travel environments](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
