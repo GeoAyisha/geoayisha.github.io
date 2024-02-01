@@ -21,7 +21,7 @@
 
 - [Number of towers above 25m in height](images/25M_height_.png)
   <img src="images/25M_height_.png"/>
-- [Project 2 Title](http://example.com/)
+- [Slope map of Tartu pedestrian and cycling routes](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
