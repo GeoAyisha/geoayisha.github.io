@@ -17,9 +17,10 @@
 
 ---
 
-### Category Name 2
+### Maps for fun
 
-- [Project 1 Title](http://example.com/)
+- [Number of towers above 25m in height](http://example.com/)
+  <img src="images/image_2024-02-01_223748180.png"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
