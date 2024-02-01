@@ -9,7 +9,7 @@
 
 ---
 [Accessibility of greenery in Tartu](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Tartu greenery.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
