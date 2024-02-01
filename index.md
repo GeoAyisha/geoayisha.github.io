@@ -8,7 +8,7 @@
 <img src="images/image_2024-02-01_223748180.png"/>
 
 ---
-[Accessibility of greenery in Tartu](/sample_page)
+[Accessibility of greenery in Tartu](/sample_page1)
 <img src="images/Tartu greenery.png"/>
 
 ---
