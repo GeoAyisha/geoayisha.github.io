@@ -19,8 +19,8 @@
 
 ### Maps for fun
 
-- [Number of towers above 25m in height](http://example.com/)
-  <img src="images/image_2024-02-01_223748180.png"/>
+- [Number of towers above 25m in height](images/25M_height_.png)
+  <img src="images/25M_height_.png"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
