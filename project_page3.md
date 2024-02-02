@@ -7,8 +7,8 @@ Data used in this project was provided by Geoinformatics Labs as a part of the â
 
 <img src="images/moose_movement123.png"/>
 
-### 4. Visualisation of activity space calculation
+### 4. Intecsected of activity space calculation
 
-<img src="images/moose_movement123.png"/> 
+<img src="intersection.PNG"/> 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
