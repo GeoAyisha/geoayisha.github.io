@@ -12,7 +12,7 @@
 <img src="images/Tartu greenery.png"/>
 
 ---
-[Analysing mooses activity space and mobility](http://example.com/)
+[Analysing mooses activity space and mobility](project_page3.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
