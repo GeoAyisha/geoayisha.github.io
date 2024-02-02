@@ -5,10 +5,10 @@ Data used in this project was provided by Geoinformatics Labs as a part of the â
 
 ### 1. Map of activity space and mobility of mooses
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/moose_movement123.png"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. Visualisation of activity space calculation
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<img src="images/moose_movement123.png"/> 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
