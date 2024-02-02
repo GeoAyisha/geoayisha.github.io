@@ -1,21 +1,9 @@
-## Project
+## Analysing mobility and activity spaces of mooses in Estonia
 
-**Project description:** This project is my research project. The aim of the research was to map the environmental quality of Tallinn street network in terms of greenery, air pollution and noise pollution. The main tool used in this project was the Spatial analyst tool in QGIS. 
+**Project description:** This is my academic project at the University of Tartu Geoinformatics Lab. The analysis aimed to calculate and visualise how much mooses’ activity spaces are overlapping. The analysis was conducted by transforming raw csv data containing GPS data from  mooses to Esri shapefile format, creating convex hulls using the Minimum Bounding Geometry tool and Basic statistics tool. 
+Data used in this project was provided by Geoinformatics Labs as a part of the “Study of moose mobility on road E263 TallinnTartuVõru-Luhamaa between km 40-85”  project. 
 
-### 1. Greenery
-
-Greenery data was obtained using remote sensing data-Landsat 8 Sentinel. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Air pollution
-Air pollution data contains 
-
-### 3. Support the selection of appropriate statistical tools and techniques
+### 1. Map of activity space and mobility of mooses
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
