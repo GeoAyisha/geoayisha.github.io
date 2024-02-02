@@ -13,7 +13,7 @@
 
 ---
 [Analysing mooses activity space and mobility](project_page3.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/moose_movement123.png"/>
 
 ---
 
