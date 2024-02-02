@@ -16,6 +16,10 @@
 <img src="images/moose_movement123.png"/>
 
 ---
+---
+[Analysing forest fire density and affected land covers in Estonia](project_page3.md)
+<img src="images/moose_movement123.png"/>
+
 
 ### Maps for fun
 
