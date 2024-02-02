@@ -7,7 +7,7 @@ Data used in this project was provided by Geoinformatics Labs as a part of the â
 
 <img src="images/moose_movement123.png"/>
 
-### 4. Intecsected of activity space calculation
+### 4. Intersected activity spaces calculation
 
 <img src="intersection.PNG"/> 
 
