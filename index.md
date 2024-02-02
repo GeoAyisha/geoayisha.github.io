@@ -12,7 +12,7 @@
 <img src="images/Tartu greenery.png"/>
 
 ---
-[Analysing mooses activity space and mobility](project_page3.md)
+[Analysing mooses activity space and mobility in Estonia](project_page3.md)
 <img src="images/moose_movement123.png"/>
 
 ---
