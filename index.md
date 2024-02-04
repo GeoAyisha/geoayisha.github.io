@@ -6,9 +6,11 @@
 
 [The environmental quality of Tallin city street network and equity of access to healthy travel environments](/sample_page)
 <img src="images/image_2024-02-01_223748180.png"/>
+
 ---
 [Head Index calculations based on demographic, temperature and tree cover](/project_page.md)
 <img src="images/Heat_index.jpg"/>
+
 ---
 [Accessibility of greenery in Tartu](/sample_page1)
 <img src="images/Tartu greenery.png"/>
