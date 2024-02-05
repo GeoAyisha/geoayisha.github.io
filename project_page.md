@@ -17,5 +17,5 @@ All attributes were merged into Donostia neighbourhood's shapefile data in the l
 <img src="images/Heat_index.jpg"/>
 
 ---
-**Data Source:**Data used in this project was provided by Geoinformatics Labs as a part of the “Study of moose mobility on road E263 TallinnTartuVõru-Luhamaa between km 40-85”  project. 
+**Data Source:**Data for this project is sourced from two main providers. Land surface temperature data is extracted from the Multispectral Landsat layer available through ArcGIS Living Atlas. Tree cover data comes from the European Space Agency WorldCover 2020 Land Cover layer, which is also available through ArcGIS Living Atlas. Additionally, population data and neighbourhood shapefile are directly obtained from Donostiako Udala.
 
