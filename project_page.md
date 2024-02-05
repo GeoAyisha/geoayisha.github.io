@@ -7,13 +7,13 @@
 <img src="images/population_density.jpg"/>
 
 In the next step, the count of tree cover cells in each area was calculated using the Zonal Statistics As Table tool. I calculated the percentage of tree canopy cover and the percentage lacking tree canopy for each postcode. 
-<img src="images/temperature.jpg"/>
+<img src="images/lack_of_tree.jpg"/>
 
 ---
 As a Land surface temperature data maximum indicator was deduced from Esri World Living Atlas using Zonal Statistics As Table tool per each county. 
 <img src="images/temperature.jpg"/>
 
-All attributes were merged into Donostia neighbourhood's shapefile data in the last step. All indicators, population density, lack of tree percentage, and maximum land surface temperature, were standardised on a scale of 1 to 5 to visualise and compare them. Next, the Heat Index was calculated by sum of all these values in the symbology pane.
+All attributes were merged into Donostia neighbourhood's shapefile data in the last step. All indicators, population density, lack of tree percentage, and maximum land surface temperature, were standardised on a scale of 1 to 5 to visualise and compare them. Next, the Heat Index was calculated by the sum of all these values in the symbology pane.
 <img src="images/Heat_index.jpg"/>
 
 ---
