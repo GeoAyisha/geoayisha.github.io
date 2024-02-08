@@ -17,13 +17,13 @@ Air pollution data contains PM10, PM2.5, NO2 spatial layers.
 ---
 ### PM10
 <img src="images/PM10final.png"/>
----
+
 ### PM2.5
 <img src="images/pm2,5final.png"/>
----
+
 ### NO2
 <img src="images/NO2final.png"/>
----
+
 
 ### 3. Noise pollution
 
