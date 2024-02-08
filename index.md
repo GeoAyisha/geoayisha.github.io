@@ -17,6 +17,10 @@
 
 ---
 [Analysing mooses activity space and mobility in Estonia](project_page3.md)
+<img src="images/schools.png"/>
+
+---
+[Analysing mooses activity space and mobility in Estonia](project_page3.md)
 <img src="images/moose_movement123.png"/>
 
 ---
