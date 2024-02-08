@@ -28,8 +28,8 @@
 <img src="images/Heat_index.jpg"/>
 
 ---
-[Analysing forest fire density and affected land covers in Estonia](project_page4.md)
-<img src="images/hex_forestfire.png"/>
+[Suitability analysis for solar panels in Estonia](suitability.md)
+<img src="images/suitability.png"/>
 
 
 ### Maps for fun
