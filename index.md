@@ -24,6 +24,10 @@
 <img src="images/moose_movement123.png"/>
 
 ---
+[Head Index calculations based on demographic, temperature and tree cover](/project_page.md)
+<img src="images/Heat_index.jpg"/>
+
+---
 [Analysing forest fire density and affected land covers in Estonia](project_page4.md)
 <img src="images/hex_forestfire.png"/>
 
