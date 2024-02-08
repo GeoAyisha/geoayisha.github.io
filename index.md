@@ -24,10 +24,6 @@
 <img src="images/moose_movement123.png"/>
 
 ---
-[Head Index calculations based on demographic, temperature and tree cover](/project_page.md)
-<img src="images/Heat_index.jpg"/>
-
----
 [Suitability analysis for solar panels in Estonia](suitability.md)
 <img src="images/suitability.png"/>
 
