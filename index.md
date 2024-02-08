@@ -16,7 +16,7 @@
 <img src="images/Tartu greenery.png"/>
 
 ---
-[Analysing mooses activity space and mobility in Estonia](project_page3.md)
+[School network analysis](school_network.md)
 <img src="images/schools.png"/>
 
 ---
