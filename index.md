@@ -16,7 +16,7 @@
 <img src="images/Tartu greenery.png"/>
 
 ---
-[School network analysis](school_network.md)
+[School network analysis](shcool_network.md)
 <img src="images/schools.png"/>
 
 ---
