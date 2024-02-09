@@ -22,7 +22,7 @@
 </head>
 <body>
    <div class="wrapper">
-      <header>
+      <header id="custom-header">  {padding: 10px}
          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          {% if site.logo %}
          <img src="{{site.logo | relative_url}}" alt="Logo" />
