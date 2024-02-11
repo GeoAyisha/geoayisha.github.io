@@ -4,4 +4,4 @@
 Data used: buildings, landuse (Estonian Land Board)
 <img src="images/Tartu greenery.png"/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Project page](https://guides.github.com/features/mastering-markdown/).
