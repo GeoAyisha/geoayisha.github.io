@@ -12,7 +12,7 @@
 <img src="images/Heat_index.jpg"/>
 
 ---
-[Accessibility of greenery in Tartu](/sample_page1)
+[Accessibility of greenery in Tartu](GreenTartu/README.md)
 <img src="images/Tartu greenery.png"/>
 
 ---
