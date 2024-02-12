@@ -12,7 +12,7 @@
 <img src="images/Heat_index.jpg"/>
 
 ---
-[Accessibility of greenery in Tartu]([GreenTartu](https://github.com/GeoAyisha/GreenTartu/blob/master/README.md)
+[Accessibility of greenery in Tartu]([GreenTartu](https://github.com/GeoAyisha/geoayisha.github.io/greenery_accessibility.md)
 <img src="images/Tartu greenery.png"/>
 
 ---
