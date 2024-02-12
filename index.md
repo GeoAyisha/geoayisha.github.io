@@ -8,7 +8,7 @@
 <img src="images/image_2024-02-01_223748180.png"/>
 
 ---
-[Head Index calculations based on demographic, temperature and tree cover](GreenTartu/README.md)
+[Head Index calculations based on demographic, temperature and tree cover](heat_index.md)
 <img src="images/Heat_index.jpg"/>
 
 ---
