@@ -10,8 +10,8 @@
 
 <img src="images/moose_movement123.png"/>
 
-### 4. Intersected activity spaces calculation
+### 2. Intersected activity spaces calculation
 
 <img src="intersection.PNG"/> 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
