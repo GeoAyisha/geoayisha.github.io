@@ -1,6 +1,6 @@
-title:    Ayisha Yusibova # your name (or website title) here
-logo: "images/my_foto.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Ayisha Yusibova
+logo: "images/my_foto.png"
+description: >
   Geoinformatics Specialist 
   <br><br>
   I am a GIS specialist passionate about applying GIS tools to study the effects of climate change and sustainable urban environments.  
@@ -11,5 +11,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
- 
+  - jekyll-remote-theme
