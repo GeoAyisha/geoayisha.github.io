@@ -1,3 +1,4 @@
+---
 layout: default
 title: Project Description
 hide_sidebar: true
