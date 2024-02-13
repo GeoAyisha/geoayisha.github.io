@@ -23,35 +23,26 @@
         body {
             background-color: #051F20; /* Set the background color to black */
             color: white; /* Set the text color to white for better visibility */
+            font-size: 16px; /* Set the base font size */
         }
-    </style>
-    <style>
-       /* Add this block for the logo class */
-       .logo {
-           max-width: 170px; /* Set the maximum width to 50px */
-           height: auto; /* Maintain aspect ratio */
-       }
 
-       /* Add this block for the navigation bar styling */
-       nav {
-           display: flex;
-           justify-content: space-between;
-           align-items: center;
-           background-color: #333; /* Adjust background color as needed */
-           padding: 1em;
-       }
+        p {
+            font-size: 14px; /* Adjust the paragraph text size */
+        }
 
-       nav ul {
-           list-style: none;
-           display: flex;
-           gap: 1em;
-       }
+        h1 {
+            font-size: 28px; /* Adjust the H1 text size */
+        }
 
-       nav ul li a {
-           text-decoration: none;
-           color: white;
-           font-weight: bold;
-       }
+        h2 {
+            font-size: 24px; /* Adjust the H2 text size */
+        }
+
+        /* Add this block for the logo class */
+        .logo {
+            max-width: 170px; /* Set the maximum width to 50px */
+            height: auto; /* Maintain aspect ratio */
+        }
     </style>
 </head>
 <body>
@@ -76,16 +67,6 @@
                <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
             </ul>
          {% endif %}
-         
-         <!-- Add the navigation bar here -->
-         <nav>
-            <ul>
-               <li><a href="{{ "/" | absolute_url }}">Home</a></li>
-               <li><a href="{{ "/about" | absolute_url }}">About Me</a></li>
-               <li><a href="{{ "/resume" | absolute_url }}">Resume</a></li>
-               <li><a href="{{ "/projects" | absolute_url }}">Projects</a></li>
-            </ul>
-         </nav>
       </header>
       <section>
          {{ content }}
