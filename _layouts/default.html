@@ -31,6 +31,27 @@
            max-width: 170px; /* Set the maximum width to 50px */
            height: auto; /* Maintain aspect ratio */
        }
+
+       /* Add this block for the navigation bar styling */
+       nav {
+           display: flex;
+           justify-content: space-between;
+           align-items: center;
+           background-color: #333; /* Adjust background color as needed */
+           padding: 1em;
+       }
+
+       nav ul {
+           list-style: none;
+           display: flex;
+           gap: 1em;
+       }
+
+       nav ul li a {
+           text-decoration: none;
+           color: white;
+           font-weight: bold;
+       }
     </style>
 </head>
 <body>
@@ -55,6 +76,16 @@
                <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
             </ul>
          {% endif %}
+         
+         <!-- Add the navigation bar here -->
+         <nav>
+            <ul>
+               <li><a href="{{ "/" | absolute_url }}">Home</a></li>
+               <li><a href="{{ "/about" | absolute_url }}">About Me</a></li>
+               <li><a href="{{ "/resume" | absolute_url }}">Resume</a></li>
+               <li><a href="{{ "/projects" | absolute_url }}">Projects</a></li>
+            </ul>
+         </nav>
       </header>
       <section>
          {{ content }}
