@@ -43,6 +43,28 @@
             max-width: 170px; /* Set the maximum width to 50px */
             height: auto; /* Maintain aspect ratio */
         }
+
+        /* Add this block for the navigation bar styling */
+        nav {
+            display: {% if page.path contains 'projects' %}none{% else %}flex{% endif %};
+            justify-content: space-between;
+            align-items: center;
+            background-color: #333; /* Adjust background color as needed */
+            padding: 1em;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 1em;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            font-size: 16px; /* Adjust the navigation link text size */
+        }
     </style>
 </head>
 <body>
@@ -55,7 +77,11 @@
          <p>{{ site.description | default: site.github.project_tagline }}</p>
          {% if site.github.is_project_page %}
             <!-- Display sidebar only if hide_sidebar is not explicitly set to true -->
-            <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+            {% if page.path contains 'projects' %}
+               <!-- Do nothing or provide specific content for project pages -->
+            {% else %}
+               <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+            {% endif %}
          {% endif %}
          {% if site.github.is_user_page %}
             <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
