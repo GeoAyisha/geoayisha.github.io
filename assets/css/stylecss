@@ -1,3 +1,6 @@
 .logo img {
   max-width: 20px; /* Adjust the size according to your preference */
 }
+.custom-text-area {
+    width: 300px; /* Set your desired width */
+}
