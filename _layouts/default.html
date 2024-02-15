@@ -73,19 +73,30 @@
 
         /* Add this block to control the size of project images */
         section img {
-            max-width: 50%; /* Adjust the percentage or pixel value as needed */
+            width: 100%; /* Make the image fill the container */
+            height: auto; /* Maintain aspect ratio */
+        }
+
+        /* Add this block to style the projects */
+        section {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        /* Add this block to style each project */
+        .project {
+            width: 48%; /* Adjust the width as needed, leaving some space for margins */
+            margin-bottom: 20px;
+        }
+
+        /* Add this block to style project images within projects */
+        .project img {
+            width: 100%; /* Make the image fill the container */
             height: auto; /* Maintain aspect ratio */
         }
 
         /* Add this block to align project images to the left */
-        section .project-image-container {
-            text-align: left; /* Align the images to the left */
-            margin-bottom: 20px; /* Add some space between images */
-            position: relative; /* Set position to relative for absolute positioning of text */
-        }
-
-        /* Add this block to position text on top of the images */
-        section .project-image-container p {
+        .project p {
             position: absolute;
             top: 0;
             left: 0;
@@ -94,26 +105,6 @@
             padding: 10px;
             margin: 0;
             font-size: 14px; /* Adjust the text size */
-        }
-
-        /* Add this block for the header */
-        header {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
-        }
-
-        /* Adjust the logo size */
-        header .logo {
-            max-width: 100px; /* Adjust the maximum width as needed */
-            height: auto;
-            margin-right: 20px; /* Add some space between the logo and project name */
-        }
-
-        /* Adjust the project name size */
-        header h1 {
-            font-size: 24px; /* Adjust the font size as needed */
         }
     </style>
 </head>
@@ -145,7 +136,17 @@
          {% endif %}
       </header>
       <section>
-         {{ content }}
+         <!-- Project 1 -->
+         <div class="project">
+            <img src="project1_image.jpg" alt="Project 1 Image">
+            <p>Project 1 Description</p>
+         </div>
+
+         <!-- Project 2 -->
+         <div class="project">
+            <img src="project2_image.jpg" alt="Project 2 Image">
+            <p>Project 2 Description</p>
+         </div>
       </section>
       <footer>
          {% if site.github.is_project_page %}
