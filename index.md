@@ -7,23 +7,18 @@
 [The environmental quality of Tallin city street network and equity of access to healthy travel environments](/environmental_quality.md)
 <img src="images/image_2024-02-01_223748180.png"/>
 
----
 [Head Index calculations based on demographic, temperature and tree cover](heat_index.md)
 <img src="images/Heat_index.jpg"/>
 
----
 [Accessibility to greenery in Tartu](greenery_accessibility.md)
 <img src="images/Tartu greenery.png"/>
 
----
 [School network analysis](shcool_network.md)
 <img src="images/schools.png"/>
 
----
 [Analysing mooses activity space and mobility in Estonia](moose_mobility.md)
 <img src="images/moose_movement123.png"/>
 
----
 [Suitability analysis for solar panels in Estonia](suitability.md)
 <img src="images/suitability.png"/>
 
