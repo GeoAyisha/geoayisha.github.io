@@ -6,7 +6,7 @@
 <img src="images/Tartu greenery.png"/>
 ---
 
-**Data used:** buildings, landuse (Estonian Land Board)
+**Data source:** buildings, landuse (Estonian Land Board)
 ---
 
 For more details see [GitHub Project page](https://github.com/GeoAyisha/GreenTartu).
