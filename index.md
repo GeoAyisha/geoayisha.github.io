@@ -14,7 +14,7 @@
 ---
 [Interactive dashboard about the COVID-19 situation in Austria with R](AyishaAssignment8Final.html)
 <img src="images/covid_dashboard.PNG"/>
--[View Github project page](https://github.com/GeoAyisha/Covid-19-Analysis-with-Dashboards)
+-View [Github project page](https://github.com/GeoAyisha/Covid-19-Analysis-with-Dashboards)
 
 ---
 [Accessibility to greenery in Tartu](greenery_accessibility.md)
