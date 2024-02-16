@@ -20,7 +20,7 @@
 ---
 <img src="images/schools.png"/>
 
-[Analysing mooses activity space and mobility in Estonia](moose_mobility.md)
+[Analysing mooses activity space and mobility in Estonia](images/moose_movement123.png)
 ---
 <img src="images/moose_movement123.png"/>
 
