@@ -41,6 +41,36 @@
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
          </ul>
          {% endif %}
+         <style>
+        body {
+            background-color: white; /* Set the background color to black */
+            color: black; /* Set the text color to white for better visibility */
+            font-size: 12px; /* Set the base font size */
+        }
+
+        p {
+            font-size: 12px; /* Adjust the paragraph text size */
+        }
+
+        h1 {
+            font-size: 20px; /* Adjust the H1 text size */
+        }
+
+        h2 {
+            font-size: 18px; /* Adjust the H2 text size */
+        }
+
+        /* Add this block for the logo class */
+        .logo {
+            max-width: 170px; /* Set the maximum width to 50px */
+            height: auto; /* Maintain aspect ratio */
+        }
+        /* Add this block to control the size of project images */
+        section img {
+            width: 50%; /* Make the image fill the container */
+            height: auto; /* Maintain aspect ratio */
+        }
+    </style>
       </header>
       <section>
          {{ content }}
