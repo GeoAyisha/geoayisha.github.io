@@ -17,7 +17,7 @@
 
 ---
 [Sea level changes and flood visualisation](flood_visualisation.md)
-<img src="images/<img src="images/parnu_2000_flood.jpg"/>
+<img src="images/parnu_2000_flood.jpg"/>
 
 ---
 [School network analysis](images/schools.png)
