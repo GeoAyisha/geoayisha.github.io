@@ -16,11 +16,11 @@
 ---
 <img src="images/Tartu greenery.png"/>
 
-[School network analysis](shcool_network.md)
+[School network analysis](images/schools.png)
 ---
 <img src="images/schools.png"/>
 
-[Analysing mooses activity space and mobility in Estonia](images/moose_movement123.png)
+[Analysing mooses activity space and mobility in Estonia](moose_mobility.md)
 ---
 <img src="images/moose_movement123.png"/>
 
