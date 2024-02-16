@@ -12,8 +12,8 @@
 <img src="images/Heat_index.jpg"/>
 
 ---
-[Interactive dashboard about the COVID-19 situation in Austria with R](heat_index.md).
-<img src="images/Heat_index.jpg"/>
+[Interactive dashboard about the COVID-19 situation in Austria with R](AyishaAssignment8Final.html).
+<img src="images/covid_dasboard.PNG"/>
 
 ---
 [Accessibility to greenery in Tartu](greenery_accessibility.md)
