@@ -13,7 +13,7 @@
 
 ---
 [Interactive dashboard about the COVID-19 situation in Austria with R](AyishaAssignment8Final.html).
-<img src="images/covid_dasboard.PNG"/>
+<img src="images/covid_dashboard.PNG"/>
 
 ---
 [Accessibility to greenery in Tartu](greenery_accessibility.md)
