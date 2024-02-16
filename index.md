@@ -34,7 +34,7 @@
 
 ---
 ### Posters
----
+
 [School network analysis](images/school_poster.png)
 <img src="images/schools.png"/>
 
