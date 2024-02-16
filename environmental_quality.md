@@ -1,7 +1,7 @@
 ## The environmental quality of Tallinn city street network and equity of access to healthy travel environments
 ---
 
-**Project description:** This project is my research project at the University of Tartu Mobility Lab. The aim of the research was to map the environmental quality of Tallinn street network in terms of greenery, air pollution and noise pollution.
+**Project description:** This is my research project at the University of Tartu Mobility Lab. The aim of the research was to map the environmental quality of Tallinn street network in terms of greenery, air pollution and noise pollution.
 
 ---
 
