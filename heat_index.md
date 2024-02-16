@@ -1,4 +1,4 @@
-## Analysing heat index in Donostia-San Sebastian, Spain. 
+## Calculating heat index in Donostia-San Sebastian, Spain. 
 ---
 **Project description:** This is one of my academic projects in the Esri MOOC course, where I impose the data analysis and visualization methods I have learned. The project aimed to calculate the heat index based on the lack of tree cover, max land surface temperature and population density per area unit.
 
