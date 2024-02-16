@@ -12,7 +12,7 @@
 <img src="images/Heat_index.jpg"/>
 
 ---
-[Interactive dashboard about the COVID-19 situation in Austria with R](AyishaAssignment8Final.html).
+[Interactive dashboard about the COVID-19 situation in Austria with R](AyishaAssignment8Final.html)
 <img src="images/covid_dashboard.PNG"/>
 -[View Github project page](https://github.com/GeoAyisha/Covid-19-Analysis-with-Dashboards)
 
@@ -37,7 +37,7 @@
 <img src="images/suitability.png"/>
 
 
-### Maps for fun
+### Simple maps
 
 - [Number of towers above 25m in height](images/25M_height_.png)
   <img src="images/25M_height_.png"/>
