@@ -20,7 +20,7 @@
 <img src="images/parnu_2000_flood.jpg"/>
 
 ---
-[School network analysis](images/schools_poster.png)
+[School network analysis](images/school_poster.png)
 <img src="images/schools.png"/>
 
 ---
