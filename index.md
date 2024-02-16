@@ -16,6 +16,9 @@
 ---
 <img src="images/Tartu greenery.png"/>
 
+---
+[Sea level changes and flood visualisation](images/parnu_flood2100.jpg)
+
 [School network analysis](images/schools.png)
 ---
 <img src="images/schools.png"/>
