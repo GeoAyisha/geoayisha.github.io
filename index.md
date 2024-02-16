@@ -39,8 +39,8 @@
 <img src="images/schools.png"/>
 
 ---
-[Environmental quality of the cycling environment in Tallinn]()
-<img src="images/poster.png"/>
+[Environmental quality of the cycling environment in Tallinn](poster.jpg)
+<img src="images/cycling_routes.png"/>
 ### Simple maps
 
 - [Number of towers above 25m in height](images/25M_height_.png)
