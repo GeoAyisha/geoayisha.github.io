@@ -1,4 +1,4 @@
-.logo {
-            max-width: 170px; /* Set the maximum width to 50px */
-            height: auto; /* Maintain aspect ratio */
-        }
+header img {
+        max-width: 50px; /* Set the maximum width to your desired size */
+        height: auto; /* Maintain aspect ratio */
+    }
