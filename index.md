@@ -29,7 +29,7 @@
 <img src="images/moose_movement123.png"/>
 
 ---
-[Suitability analysis for solar panels in Estonia](suitability.md)
+[Suitability analysis for solar panels in Estonia]()
 <img src="images/suitability.png"/>
 
 ---
