@@ -39,7 +39,7 @@
 <img src="images/schools.png"/>
 
 ---
-[Environmental quality of the cycling environment in Tallinn](images/poster.jpg)
+[Environmental quality of the cycling environment in Tallinn](images/Poster.jpg)
 <img src="images/cycling_routes.PNG"/>
 ### Simple maps
 
