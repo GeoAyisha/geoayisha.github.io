@@ -1,1 +1,4 @@
-
+.logo {
+            max-width: 100px; /* Set the maximum width to 50px */
+            height: auto; /* Maintain aspect ratio */
+        }
