@@ -4,9 +4,9 @@
 
 ---
 <img src="images/Tartu greenery.png"/>
----
 
 **Data source:** buildings, landuse (Estonian Land Board)
+
 ---
 
 For more details see [GitHub Project page](https://github.com/GeoAyisha/GreenTartu).
