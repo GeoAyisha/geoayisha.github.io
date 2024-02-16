@@ -16,7 +16,7 @@
 <img src="images/Tartu greenery.png"/>
 
 ---
-[Sea level changes and flood visualisation](flood_visualisation.md)
+[Sea level changes and flood visualisation](flood_visualisation)
 <img src="images/parnu_2000_flood.jpg"/>
 
 ---
