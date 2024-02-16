@@ -11,7 +11,7 @@ In this project, interpolation and raster calculation methods were used in ArcGI
 <img src="images/west_coast_7500.jpg"/>
 
 ---
-<img src="images/parnu_2005.jpg"/>
+<img src="images/parnu_2000_flood.jpg"/>
 
 ---
-<img src="images/parnu_flood2100.jpg"/>
+<img src="images/parnu_2100_flood.jpg"/>
