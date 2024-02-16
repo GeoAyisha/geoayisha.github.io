@@ -1,13 +1,13 @@
 ## The environmental quality of Tallinn city street network and equity of access to healthy travel environments
 ---
 
-**Project description:** This project is my research project at the University of Tartu Mobility Lab. The aim of the research was to map the environmental quality of Tallinn street network in terms of greenery, air pollution and noise pollution. The main tool used in this project was the Spatial analyst tool in QGIS. 
-
+**Project description:** This project is my research project at the University of Tartu Mobility Lab. The aim of the research was to map the environmental quality of Tallinn street network in terms of greenery, air pollution and noise pollution.
 ---
 
 ### 1. Greenery
 
-Greenery data was obtained using remote sensing data-Landsat 8 Sentinel. 
+Greenery data was obtained using remote sensing data- Sentinel2. 
+
 <img src="images/ndvilast.png"/>
 
 ---
