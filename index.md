@@ -25,10 +25,6 @@
 <img src="images/parnu_2000_flood.jpg"/>
 
 ---
-[School network analysis](images/school_poster.png)
-<img src="images/schools.png"/>
-
----
 [Analysing mooses activity space and mobility in Estonia](moose_mobility.md)
 <img src="images/moose_movement123.png"/>
 
@@ -36,7 +32,14 @@
 [Suitability analysis for solar panels in Estonia](suitability.md)
 <img src="images/suitability.png"/>
 
+---
+### Posters
+---
+[School network analysis](images/school_poster.png)
+<img src="images/schools.png"/>
 
+---
+[Environmental quality of the cycling environment in Tallinn]
 ### Simple maps
 
 - [Number of towers above 25m in height](images/25M_height_.png)
