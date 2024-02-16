@@ -2,6 +2,7 @@
 ---
 
 **Project description:** This project is my research project at the University of Tartu Mobility Lab. The aim of the research was to map the environmental quality of Tallinn street network in terms of greenery, air pollution and noise pollution.
+
 ---
 
 ### 1. Greenery
