@@ -44,10 +44,13 @@
 ### Simple maps
 
 - [Number of towers above 25m in height](images/25M_height_.png)
+- 
   <img src="images/25M_height_.png"/>
 - [Slope map of Tartu pedestrian and cycling routes](images/tartu_network_slope___.png)
+- 
   <img src="images/tartu_network_slope___.png"/>
-- [Air temperature visualisation](images/SmallMultiplesInterpolation.png)
+- [Air temperature visualisation in Tartu using interpolation methods](images/SmallMultiplesInterpolation.png)
+- 
 - <img src="images/SmallMultiplesInterpolation.png"/>
 - [Project 4 Title](README.md)
 - [Project 5 Title](http://example.com/)
