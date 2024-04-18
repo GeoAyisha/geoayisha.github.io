@@ -2,7 +2,7 @@
 
 ---
 
-## Esri Cartography MOOC
+### Esri Cartography MOOC
 [Hurricanes since 1851 ](images/hurricanes_since1851.png)
 <img src="images/hurricanes_since1851.png"/>
 
@@ -50,12 +50,16 @@
 
 - [Number of towers above 25m in height](images/25M_height_.png)
   <img src="images/25M_height_.png"/>
+  
+  ---
 - [Slope map of Tartu pedestrian and cycling routes](images/tartu_network_slope___.png)
    <img src="images/tartu_network_slope___.png"/>
+   
+   ---
 - [Air temperature visualisation Estonia with different interpolation methods](images/SmallMultiplesInterpolation.png)
    <img src="images/SmallMultiplesInterpolation.png"/>
-- [Project 4 Title](README.md)
-- [Project 5 Title](http://example.com/)
+   
+   ---
 
 ---
 
