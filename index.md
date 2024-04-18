@@ -2,12 +2,12 @@
 
 ---
 
-### Academic projects 
-
+## Esri Cartography MOOC
 [Hurricanes since 1851 ](images/hurricanes_since1851.png)
 <img src="images/hurricanes_since1851.png"/>
 
 ---
+### Academic projects 
 
 [The environmental quality of Tallin city street network and equity of access to healthy travel environments](/environmental_quality.md)
 <img src="images/image_2024-02-01_223748180.png"/>
