@@ -2,9 +2,14 @@
 
 ---
 
-### Esri Cartography MOOC
+### Esri MOOC projects
 [Hurricanes since 1851 ](images/hurricanes_since1851.png)
 <img src="images/hurricanes_since1851.png"/>
+
+---
+[Application of Rondonia Land Cover Change from 1992 to 2020 ](https://mooc04.maps.arcgis.com/apps/instant/media/index.html?appid=f3f541aa9ded471b8382693efe0635a9)
+<img src="images/hurricanes_since1851.png"/>
+
 
 ---
 ### Academic projects 
