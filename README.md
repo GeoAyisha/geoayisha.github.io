@@ -1,6 +1,6 @@
 ## Ayisha's GIS portfolio
 
-This project is Based on a Minimal Jekyll theme for GitHub Pages and contains my GIS works.
+This is my portfolio project based on a Minimal Jekyll theme from GitHub Pages and contains my academic GIS projects.
 
 
 ### How to install
